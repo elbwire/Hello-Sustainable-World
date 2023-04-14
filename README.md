@@ -1,4 +1,4 @@
-# elbwire - Coding towards a sustainable future of energy and mobility.
+# elbwire - Codes for sustainable future of energy & mobility.
 
 Hello World 👋
 
